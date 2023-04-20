@@ -26,4 +26,11 @@ all screens.
 
 
 
-## so, I have used ReactJS and Tailwind CSS for making DASHBOARD UI
+### OUTPUT👇
+
+### ● Signin Page 👇 (https://dashboard-ui-nu.vercel.app/signin)
+![Signin Page](https://user-images.githubusercontent.com/75841470/233362835-55f5a9ef-6c98-4bc3-8801-284b470a56e5.png)
+
+### ● Dashboard Page 👇 (https://dashboard-ui-nu.vercel.app/)
+![Dashboard Page](https://user-images.githubusercontent.com/75841470/233362858-11dae540-e47f-4f92-acc0-595328b86238.png)
+
