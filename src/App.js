@@ -3,6 +3,7 @@ import Layout from './components/shared/Layout'
 import Register from './pages/Register'
 import Dashboard from './pages/Dashboard'
 import Products from './pages/Products'
+import Signin from './pages/Signin'
 
 function App() {
     return (
@@ -13,6 +14,7 @@ function App() {
                     <Route path="products" element={<Products />} />
                 </Route>
                 <Route path="/register" element={<Register />} />
+                <Route path='/signin' element={<Signin/>}/>
             </Routes>
         </Router>
     )
